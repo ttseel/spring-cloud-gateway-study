@@ -1,0 +1,4 @@
+rootProject.name = 'spring-cloud-gateway-study'
+include 'api-gateway-app'
+include 'micro-service-app'
+
